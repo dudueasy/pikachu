@@ -22,7 +22,7 @@
     
 let code = `
 /*
- * 我们来画一个皮卡丘吧
+ * 你好我是Apolo, 让我们来画一个皮卡丘吧
  */
 .preview{
     height: 100%;
@@ -41,7 +41,7 @@ let code = `
 }
 
 /*
- * 现在画一个鼻子
+ * 首先画一个鼻子
  */
 .nose{
     position: absolute;
@@ -200,7 +200,7 @@ let code = `
     border: 2px solid black;
 }
 /*
- * 好了, 这只皮卡丘送给你咯
+ * 大功告成, 这只皮卡丘就送给你咯
  */
 
 `
